@@ -50,6 +50,9 @@ body {
 .header {
     margin: 45px 45px 45px 78px;
     font-family: Poppins, sans-serif;
+}
+
+.header nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
